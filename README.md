@@ -35,3 +35,14 @@ https://www.bilibili.com/video/BV1hb421q7iu?t=0.9
 fff
 
 https://github.com/DavdGao/EasySetUp/releases/download/0.0.1/werewolf-gamex2.mp4
+
+
+eeee
+<iframe width="1199" height="674" src="https://www.youtube.com/embed/CoZqL9N6Rx4" title="BEETLEJUICE BEETLEJUICE | Official Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[![Watch the video](https://img.youtube.com/vi/<VIDEO_ID>/hqdefault.jpg)](https://www.youtube.com/embed/<VIDEO_ID>)
+
+https://youtu.be/CoZqL9N6Rx4
+
+[<img src="https://img.youtube.com/vi/<VIDEO_ID>/hqdefault.jpg" width="600" height="300"
+/>]([https://www.youtube.com/embed/<VIDEO_ID>](https://youtu.be/CoZqL9N6Rx4))
