@@ -21,5 +21,5 @@ This repository contains a shell for the basic setup within a ubuntu docker cont
 
 abc
 
-[](https://www.bilibili.com/video/BV1hb421q7iu?t=0.9)
+![](https://www.bilibili.com/video/BV1hb421q7iu?t=0.9)
 
