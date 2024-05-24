@@ -46,3 +46,10 @@ https://youtu.be/CoZqL9N6Rx4
 
 [<img src="https://img.youtube.com/vi/<VIDEO_ID>/hqdefault.jpg" width="600" height="300"
 />]([https://www.youtube.com/embed/<VIDEO_ID>](https://youtu.be/CoZqL9N6Rx4))
+
+
+
+
+
+https://github.com/DavdGao/EasySetUp/assets/102287034/994b71cf-29b5-4f80-99fc-26579c6bf728
+
