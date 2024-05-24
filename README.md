@@ -31,3 +31,7 @@ def
 
 
 https://www.bilibili.com/video/BV1hb421q7iu?t=0.9
+
+fff
+
+https://github.com/DavdGao/EasySetUp/releases/download/0.0.1/werewolf-gamex2.mp4
